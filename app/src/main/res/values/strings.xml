@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="word">word</string>
+    <string name="meaning">meaning</string>
+    <string name="word1">word 1</string>
+    <string name="meaning1">meaning 1</string>
+    <string name="unknown_word">Unknown Word</string>
+</resources>
